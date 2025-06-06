@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **técnicas básicas de pentesting**
 
-- 💬 Pregúntame sobre **administración de sistemas, Linux y sobre pentesting basico**
+- 💬 Pregúntame sobre **administración de sistemas, Linux y sobre pentesting básico**
 
 - 📫 Puedes contactarme en **damcorbor@gmail.com**
 
