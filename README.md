@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Damian Correa Borras.</h1>
+<h1 align="center">Hola 👋, Soy Damian Correa Borras.</h1>
 <h3 align="center">Passionate about systems administration and cybersecurity from Spain.</h3>
 
 - 🌱 I’m currently learning **Basic penetration testing techniques**
 
-- 💬 Ask me about **Systems administration, network security, Linux, and cybersecurity basics**
+- 💬 Ask me about **Systems administration, Linux, and pentesting basics**
 
 - 📫 How to reach me **damcorbor@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/damian-correa-borras/](https://www.linkedin.com/in/damian-correa-borras/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
