@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Damián Correa Borrás.</h1>
+<h1 align="center">Hola 👋, soy Damián Correa Borras.</h1>
 <h3 align="center">Apasionado por la administración de sistemas y la ciberseguridad desde España.</h3>
 
 - 🌱 Actualmente estoy aprendiendo **técnicas básicas de pentesting**
